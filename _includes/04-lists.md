@@ -1,6 +1,4 @@
-<ol>
-  <li>I love music😜</li>
-  <li>I like to dance 💃</li>
-  <li>I read novels😊</li>
-</ol>
+*I love music😜
+*I like to dance 💃
+*I read novels😊
    Thats all I am🙂
